@@ -7,3 +7,4 @@ dependencies:
   - plotly
   - pandas
   - requests
+  - openpyxl
