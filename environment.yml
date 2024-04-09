@@ -1,8 +1,9 @@
-name: voici
+name: my-dashboard-env
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
   - xeus-python
-  - pandas <2
-  - bqplot
+  - plotly
+  - pandas
+  - requests
